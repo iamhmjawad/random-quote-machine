@@ -7,6 +7,9 @@ A Random quote machine built with React.
 ## Live Demonstration
 
 Live project link: <https://random-quote-machine-huehue.netlify.app/>
+
+## Codepen.io 
+
 Codepen.io link: <https://codepen.io/micro087/pen/mdpYbmo/>
 
 ## Screenshot
