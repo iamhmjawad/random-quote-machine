@@ -34,7 +34,6 @@ Codepen.io link: <https://codepen.io/micro087/pen/mdpYbmo/>
 - [x] I can tweet the current quote by clicking on the `#tweet-quote a` element. This `a` element should include the `"twitter.com/intent/tweet"` path in it's `href` attribute to tweet the current quote.
 - [x] The `#quote-box` wrapper element should be horizontally centered. Please run tests with browser's zoom level at 100% and page maximized.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
